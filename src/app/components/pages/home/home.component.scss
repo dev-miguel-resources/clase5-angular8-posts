@@ -1,0 +1,15 @@
+.container {
+  margin-top: 25px;
+  display: grid;
+  grid-template-columns: 24% 24% 24% 24%;
+  grid-column-gap: 10px;
+  grid-row-gap: 15px;
+  justify-content: center;
+  .post-card {
+      background: #444;
+      color: #fff;
+      border-radius: 5px;
+      padding: 20px;
+      font-size: 150%;
+    }
+}

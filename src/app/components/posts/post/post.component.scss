@@ -1,0 +1,14 @@
+
+  a {
+    cursor: pointer;
+    color: #fff;
+    text-decoration: none;
+  }
+   img {
+      height: 200px;
+    }
+    p.content {
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
